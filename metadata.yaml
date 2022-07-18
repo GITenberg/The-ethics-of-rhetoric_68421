@@ -1,11 +1,16 @@
 _repo: The-ethics-of-rhetoric_68421
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68421-h/images/cover-deco.jpg
 creator:
   author:
     agent_name: Weaver, Richard M.
     gutenberg_agent_id: '54769'
     url: http://www.gutenberg.org/2009/agents/54769
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68421#The-ethics-of-rhetoric
 gutenberg_issued: '2022-06-28'
 identifiers:
   gutenberg: '68421'
